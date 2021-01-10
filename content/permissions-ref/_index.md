@@ -36,7 +36,7 @@ The default `permissions.cfg` file provided in the resource download, will have 
 ## Setting up permissions (very basic)
 
 {{% notice warning %}}
-**Very important**<br><br>**DO NOT SET ANY PERMISSION TO `deny`!!!! If you don't want someone to have a specific permission, then just COMMENT OUT (put a `#` in front of the line) a permission. Alternatively, just remove the entire line, however I'd recommend just commenting it out so you don't have to look on the docs to find it again if you want to use it later.**
+**Very important** <br><br>**DO NOT SET ANY PERMISSION TO `deny`!!!! If you don't want someone to have a specific permission, then just COMMENT OUT (put a `#` in front of the line) a permission. Alternatively, just remove the entire line, however I'd recommend just commenting it out so you don't have to look on the docs to find it again if you want to use it later.**
 {{% /notice %}}
 
 
@@ -103,7 +103,7 @@ See how the `.Teleport` line is commented out? That will `deny` that option in t
 
 
 {{% notice warning %}}
-**Very important**<br><br>**DO NOT SET ANY PERMISSION TO `deny`!!!! If you don't want someone to have a specific permission, then just COMMENT OUT (put a `#` in front of the line) a permission. Alternatively, just remove the entire line, however I'd recommend just commenting it out so you don't have to look on the docs to find it again if you want to use it later.**
+**Very important** <br><br>**DO NOT SET ANY PERMISSION TO `deny`!!!! If you don't want someone to have a specific permission, then just COMMENT OUT (put a `#` in front of the line) a permission. Alternatively, just remove the entire line, however I'd recommend just commenting it out so you don't have to look on the docs to find it again if you want to use it later.**
 {{% /notice %}}
 
 
